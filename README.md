@@ -53,5 +53,5 @@ Grunt is used for automation and the following tasks are present:
 * `grunt`: Run all of the above. When one of the tools returns an error, it will stop.
 
 ## License
-Copyright (c) 2015 Nikolas Vourlakis  
+Copyright (c) 2015 devstaff-crete
 Licensed under the GPLv3 license.
