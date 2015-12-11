@@ -54,4 +54,5 @@ Grunt is used for automation and the following tasks are present:
 
 ## License
 Copyright (c) 2015 devstaff-crete
+
 Licensed under the GPLv3 license.
