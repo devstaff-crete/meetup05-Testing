@@ -1,5 +1,7 @@
 # Meetup 05 - Software Testing
 
+[![Join the chat at https://gitter.im/devstaff-crete/meetup05-Testing](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/devstaff-crete/meetup05-Testing?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+
 Here you can find the slides of the presenation in different formats plus the implementation of the code kata.
 
 ## The String Calculator Code Kata
